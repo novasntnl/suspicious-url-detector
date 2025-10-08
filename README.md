@@ -1,6 +1,4 @@
 # suspicious-url-detector
-Beginner Python tool to detect potentially suspicious or phishing URLs
-
 # 🛡️ Suspicious URL Detector
 
 A beginner-friendly Python script that flags potentially suspicious or phishing URLs using basic checks.
@@ -26,7 +24,7 @@ Enter a URL: http://192.168.1.100/login
 
 ## 🧠 Why This Project?
 
-This is part of my cybersecurity learning journey. I’m building small tools to better understand threats and help others stay safe online.
+I’m building small tools to better understand threats and help others stay safe online.
 
 ## 📄 License
 
